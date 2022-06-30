@@ -2,7 +2,9 @@
 
 Data Science Student at Codeup graduating in November 2022
   
+<a href="mailto:dan.churchill.satx@gmail.com">![YourEmail@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
+<a href="<www.linkedin.com/danchurchillsatx>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <!--
 **DanChurchill/DanChurchill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
