@@ -6,4 +6,6 @@
 <a href="https://www.kaggle.com/danielchurchill">![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)</a>
 <a href="https://www.hackerrank.com/dan_churchill_s1">![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
 <a href="https://leetcode.com/user1950qP/">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
-<a href="https://strava.com/athletes/154807">![Strava](https://img.shields.io/badge/Strava-fc4c02?style=for-the-badge&logo=Strava&logoColor=white)</a>
+<a href="https://strava.com/athletes/154807">![Strava](https://img.shields.io/badge/Strava-fc4c02?style=for-the-badge&logo=Strava&logoColor=white)
+  
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=DanChurchill&show_icons=true)
